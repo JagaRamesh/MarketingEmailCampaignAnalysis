@@ -14,4 +14,4 @@ Analysis on Marketing Email Campaign to improve the CTR
 ![page11](/images/page11.png)
 
 ### Code :
-Program code can be found [here](https://github.com/JagaRamesh/MarketingEmailCampaignAnalysis/tree/master/Code)
+Program code can be found [here](https://github.com/JagaRamesh/MarketingEmailCampaignAnalysis/tree/master/code)
